@@ -54,23 +54,12 @@
 	<img src="https://img.shields.io/badge/Oracle VM VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-000&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Ga-000&show_icons=true">
+<br><br>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-000&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Ga-000&show_icons=true">
+</div>
 
 
-### Hi there 👋
 
-<!--
-**Ga-000/Ga-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
