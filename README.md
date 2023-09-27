@@ -41,7 +41,7 @@
 	<img src="https://img.shields.io/badge/Spring Tool Suite4-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Heidi SQL-4B8A08?style=flat&logo=amazondocumentdb&logoColor=white" />
+	<img src="https://img.shields.io/badge/Heidi SQL-4B8A08?style=flat&logo=json&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQLdeveloper-A4A4A4?style=flat&logo=amazondocumentdb&logoColor=white" />
 	<img src="https://img.shields.io/badge/EditPlus-DF01A5?style=flat&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/SceneBuilder-FF8000?style=flat&logo=immich&logoColor=white" />
