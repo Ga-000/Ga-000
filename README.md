@@ -1,7 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=200&section=header&text=My&nbsp;GitHub&fontSize=80" />
 </div>
-
 <div align="center">
 	<h3>📚 Language 📚</h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
