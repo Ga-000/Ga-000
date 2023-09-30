@@ -64,22 +64,22 @@
 <br>
 
 ## 📋 PROJECT 📋 
-### 1. 숙박예약 사이트 구현
+### 1. 숙박예약 사이트 개발 프로젝트
 You can access this link <https://ga-000.github.io/Yanolja_Reservation_System/>
 
 ![프로젝트1](./README_img/야놀자정보.png)
 
-### 2. 음악 스트리밍 사이트 구현
+### 2. 음악 스트리밍 사이트 개발 프로젝트
 You can access this link <https://ga-000.github.io/WaterMelon_MusicPlayer/>
 
 ![프로젝트2](./README_img/수박정보.png)
 
-### 3. 인공지능 미로찾기 게임 구현
+### 3. 인공지능 미로찾기 게임 개발 프로젝트
 You can access this link <https://ga-000.github.io/Wumpus_World/>
 
 ![프로젝트3](./README_img/미로정보.png)
 
-### 4. 프로그래머 계산기 구현
+### 4. 프로그래머 계산기 구현 프로젝트
 You can access this link <https://ga-000.github.io/Programmable_Calculator/>
 
 ![프로젝트4](./README_img/계산기정보.png)
