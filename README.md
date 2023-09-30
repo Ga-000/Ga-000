@@ -3,18 +3,6 @@
 </div>
 
 ## 📌 SKILL 📌
-### 📚 Language 📚
-<div>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaFx-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-</div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
- 
 <div align="center">
 	<h3>📚 Language 📚</h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -76,6 +64,12 @@
 <br>
 
 ## 📋 PROJECT 📋 
+1. Yanolja Reservation Project
+   You can access this link <https://ga-000.github.io/Yanolja_Reservation_System/>
+![HTML1](./README_img/HTML1.png)
+   
+
+
 
 
 
