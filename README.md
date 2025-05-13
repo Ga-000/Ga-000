@@ -59,6 +59,7 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-000&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=Ga-000&show_icons=true&count_private=true">
+	[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={melona127})](https://solved.ac/{melona127})
 </div>
 
 <br>
