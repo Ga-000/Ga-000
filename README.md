@@ -62,7 +62,7 @@
 	<!-- stats 빈도수 -->
 	<img src="https://github-readme-stats.vercel.app/api?username=Ga-000&show_icons=true&count_private=true"><br><br>
  	<!-- 백준 티어 (백준 solved.ac) -->
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=melona127"><br><br>
+	<!--img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=melona127"--><br><br>
 	<!-- solved.ac 사용 빈도 그래프 -->
 	<!--img src="https://mazandi.herokuapp.com/api?handle=melona127&theme=warm"-->
 </div>
