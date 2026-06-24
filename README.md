@@ -5,6 +5,7 @@
 ## 📌 SKILL 📌
 <div align="center">
   <img src="./README_img/sap-certified-back-end-developer-abap-cloud.png" width="300" />
+  <img src="./README_img/sap-certified-sap-s-4hana-cloud-private-edition-fin.png" width="300" />
 </div>
 <br>
 <div align="center">
